@@ -5,7 +5,7 @@ Step by Step of what was done
 *Created Bucket S3 for store tfstate remotly in cloud  
 *Created DynamoDB table to user for locking  
 *Created VPC  
-*Creating an Internet Gateway  
+*Created an Internet Gateway  
 *Created Custom Route Table  
 *Created Subnet  
 *Associating Subnet with Route Table  
