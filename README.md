@@ -34,7 +34,7 @@ Contribuições para aprimorar o projeto são bem-vindas. Por favor, siga as seg
 - Envie um pull request com uma descrição clara das mudanças e quaisquer números de issues relevantes.
 
 ## Licença
-Este projeto está licenciado sob a [Licença MIT](LICENSE.md) - veja o arquivo LICENSE.md para detalhes.
+Este projeto está licenciado sob a [Licença MIT](LICENSE.md) .
 
 ---
 
