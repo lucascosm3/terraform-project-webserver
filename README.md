@@ -1,5 +1,3 @@
-# README.md
-
 ## Visão Geral
 Bem-vindo ao `terraform-project-webserver`! Este projeto automatiza a criação de uma infraestrutura robusta para um servidor web usando Terraform. Ele provisiona e gerencia de forma eficiente os recursos necessários na nuvem, garantindo uma configuração de servidor web escalável e segura.
 
