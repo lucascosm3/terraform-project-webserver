@@ -34,8 +34,6 @@ Contribuições para aprimorar o projeto são bem-vindas. Por favor, siga as seg
 - Envie um pull request com uma descrição clara das mudanças e quaisquer números de issues relevantes.
 
 ## Licença
-Este projeto está licenciado sob a [Licença MIT](LICENSE.md) .
-
----
+Este projeto está licenciado sob a [GPL-3.0 license](LICENSE.md) .
 
 Feliz Terraform! 🚀🌐
